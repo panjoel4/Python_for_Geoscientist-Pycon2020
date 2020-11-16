@@ -9,3 +9,6 @@ The Las file of the well log are available at the data folder, while the segY fo
 
 ## Curie Point Depth Mapping example
 For this case, I am not able to share the jupyter. The proccess took a while to generate, and this was not ran on jupyter notebook back in the day. However, you could still copy the full code from my MSc thesis [here.](http://essay.utwente.nl/83453/1/qudsi.pdf)
+
+## Contact Me
+If you have any further question you can reach me on LinkedIn or email at izzul.qudsi@gmail.com. You are welcomed to fork this repository and create some more improvement using the branch feature. Thank you and Happy Coding!
