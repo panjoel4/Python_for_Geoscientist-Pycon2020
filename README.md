@@ -12,6 +12,7 @@ For this case, I am not able to share the jupyter. The proccess took a while to 
 
 ## Book Recommendation
 I remember that someone asked me about book recommendation which I wasn't able to recall back in the talk, this is the [link](https://www.elsevier.com/books/machine-learning-guide-for-oil-and-gas-using-python/belyadi/978-0-12-821929-4) to the book that you might want to read. 
+
 ![alt text](https://media-exp1.licdn.com/dms/image/C5622AQH1ecWtwsp8yQ/feedshare-shrink_1280-alternative/0?e=1608163200&v=beta&t=uucTr3OqtmkuEq9kV9s5tDUloZqhnAf_ywb0c119PJ4)
 
 ## Contact Me
