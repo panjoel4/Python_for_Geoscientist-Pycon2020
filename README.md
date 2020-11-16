@@ -1,5 +1,5 @@
 # Python for Geoscientist: Machine Learning and Beyond!
-This repository is the supplementary files from my latest talk at Python Conference 2020. I hope that you could playing around with the examples given on the talks. 
+This repository is the supplementary files from my latest talk at Python Conference 2020. I hope that you could playing around with the examples given on the talks. For the recording of the talk, I will also attach the link here once PyCon 2020 release the video online.
 
 ![alt text](https://github.com/panjoel4/Python_for_Geoscientist-Pycon2020/blob/main/Images/pycon20.png?raw=true)
 
