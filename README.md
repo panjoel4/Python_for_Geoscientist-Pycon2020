@@ -10,6 +10,14 @@ The Las file of the well log are available at the data folder, while the segY fo
 ## Curie Point Depth Mapping example
 For this case, I am not able to share the jupyter. The proccess took a while to generate, and this was not ran on jupyter notebook back in the day. However, you could still copy the full code from my MSc thesis [here.](http://essay.utwente.nl/83453/1/qudsi.pdf)
 
+## Python-based Software
+Here are several links to the software that was mentioned during the talk. Of course there are plenty of other software that I couldn't mention, if you find the interesting one, kindly update this list below.
+* [Geoapps - Mira Geoscience](https://mirageoscience.com/geoh5py-and-geoapps-pypi/)
+* [HypPy - Hyperspectral Python](https://blog.utwente.nl/bakker/hyppy/) and [Frank's Tutorial](https://frankstutorials.nl/) to get the dataset also tutorial about multi or hyperspectral imagery.
+* [Gempy - Open-source 3D geological modelling](https://www.gempy.org/)
+* [pyGIMLi - Geophysical Inversion & Modelling Library](https://www.pygimli.org/)
+* [pyLEFA - LEFA GIS Tools](http://lefa.geologov.net/download-2/pylefa/)
+
 ## Book Recommendation
 I remember that someone asked me about book recommendation which I wasn't able to recall back in the talk, this is the [link](https://www.elsevier.com/books/machine-learning-guide-for-oil-and-gas-using-python/belyadi/978-0-12-821929-4) to the book that you might want to read. 
 
