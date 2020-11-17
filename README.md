@@ -19,7 +19,7 @@ Here are several links to the software that was mentioned during the talk. Of co
 * [pyLEFA - LEFA GIS Tools](http://lefa.geologov.net/download-2/pylefa/)
 
 ## Implementation on Database Management System (Bonus)
-Unfortunately, I couldn't attach the code for the implementation on database management system. This is the property of my current company, so releasing the code is not possible. However, you can still see what we have done using python on our company page [here](http://horizon-perdana.co.id/products/hope-solution/) or you can watch this video, one of our portfolio.
+Unfortunately, I couldn't attach the code for the implementation on database management system. This is the property of my current company, so releasing the code is not possible. However, you can still see what we have done using python on our company page [here](http://horizon-perdana.co.id/products/hope-solution/) or you can click this thumbnail below, to watch the video of one of our portfolio.
 [![Watch the video](https://github.com/panjoel4/Python_for_Geoscientist-Pycon2020/blob/main/Images/thumbnail.PNG)](https://www.youtube.com/watch?v=UQr0DEzQQyw)
 
 ## Book Recommendation
