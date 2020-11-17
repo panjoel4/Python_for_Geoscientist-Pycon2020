@@ -13,7 +13,7 @@ For this case, I am not able to share the jupyter. The proccess took a while to 
 ## Python-based Software
 Here are several links to the software that was mentioned during the talk. Of course there are plenty of other software that I couldn't mention, if you find the interesting one, kindly update this list below.
 * [Geoapps - Mira Geoscience](https://mirageoscience.com/geoh5py-and-geoapps-pypi/)
-* [HypPy - Hyperspectral Python](https://blog.utwente.nl/bakker/hyppy/) and [Frank's Tutorial](https://frankstutorials.nl/) to get the dataset also tutorial about multi or hyperspectral imagery.
+* [HypPy - Hyperspectral Python](https://blog.utwente.nl/bakker/hyppy/) and [Frank's Tutorial](https://frankstutorials.nl/) to get the dataset also tutorial about hyperspectral imagery.
 * [Gempy - Open-source 3D geological modelling](https://www.gempy.org/)
 * [pyGIMLi - Geophysical Inversion & Modelling Library](https://www.pygimli.org/)
 * [pyLEFA - LEFA GIS Tools](http://lefa.geologov.net/download-2/pylefa/)
