@@ -18,6 +18,10 @@ Here are several links to the software that was mentioned during the talk. Of co
 * [pyGIMLi - Geophysical Inversion & Modelling Library](https://www.pygimli.org/)
 * [pyLEFA - LEFA GIS Tools](http://lefa.geologov.net/download-2/pylefa/)
 
+## Implementation on Database Management System (Bonus)
+Unfortunately, I couldn't attach the code for the implementation on database management system. This is the property of my current company, so releasing the code is not possible. However, you can still see what we have done using python on our company page [here](http://horizon-perdana.co.id/products/hope-solution/) or you can watch this video below on of our portfolio.
+
+
 ## Book Recommendation
 I remember that someone asked me about book recommendation which I wasn't able to recall back in the talk, this is the [link](https://www.elsevier.com/books/machine-learning-guide-for-oil-and-gas-using-python/belyadi/978-0-12-821929-4) to the book that you might want to read. 
 
