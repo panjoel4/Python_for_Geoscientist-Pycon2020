@@ -25,7 +25,7 @@ Unfortunately, I couldn't attach the code for the implementation on database man
 ## Book Recommendation
 I remember that someone asked me about book recommendation which I wasn't able to recall back in the talk, this is the [link](https://www.elsevier.com/books/machine-learning-guide-for-oil-and-gas-using-python/belyadi/978-0-12-821929-4) to the book that you might want to read. 
 
-![alt text](ttps://github.com/panjoel4/Python_for_Geoscientist-Pycon2020/blob/main/Images/9780128219294.jpg?raw=true)
+![alt text](https://github.com/panjoel4/Python_for_Geoscientist-Pycon2020/blob/main/Images/9780128219294.jpg?raw=true)
 
 ### Contact Me
 If you have any further question you can reach me on LinkedIn or email at izzul.qudsi@gmail.com. You are welcomed to fork this repository and create some more improvement using the branch feature. Thank you and Happy Coding!
